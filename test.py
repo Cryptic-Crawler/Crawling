@@ -1,3 +1,4 @@
+#Study of extracting data from a site.
 import requests
 from bs4 import BeautifulSoup
 
